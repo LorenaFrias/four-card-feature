@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/LorenaFrias/3-column-card)
-- [Live Site URL](https://candid-jalebi-60bcd2.netlify.app/)
+- [Solution URL](https://github.com/LorenaFrias/four-card-feature)
+- [Live Site URL](https://zesty-squirrel-cea934.netlify.app/)
 
 ## My process
 
